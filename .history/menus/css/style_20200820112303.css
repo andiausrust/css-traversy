@@ -1,0 +1,6 @@
+.side-menu {
+    list-style: none;
+    border: 1px solig #ddd;
+    border-radius: 10px;
+    width: 300px;
+}

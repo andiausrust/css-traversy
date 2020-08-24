@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    background: #f4f4f4;
+    border: 2px #777 solid;
+}

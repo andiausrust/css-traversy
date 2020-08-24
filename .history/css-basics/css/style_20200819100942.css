@@ -1,0 +1,8 @@
+/* . is for classes # for ids */
+h2#primary-heading {
+    color: green;
+}
+
+#welcome {
+    background-color: f4f4f4;
+}
